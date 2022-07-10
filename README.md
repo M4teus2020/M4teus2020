@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking looking for any work as a Web Developer<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning React<br>
+🔭 I’m looking looking for any work as a Developer<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
