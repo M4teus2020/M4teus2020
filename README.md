@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🇧🇷 Web Developer | Brazil<br><br>🚀 Passionate about Laravel and Vue.js<br>💼 Experienced in PHP, MySQL, JavaScript, HTML, CSS<br>🎯 Committed to creating robust and intuitive web applications<br>📚 Lifelong learner with courses from Alura and OneBitCode<br>💪 Dedicated gymrat | 🎬 Movie enthusiast | 🎮 Gamer<br><br>📫 Connect with me on GitHub for exciting opportunities and collaborations!</p>
+<p align="left">🇧🇷 Web Developer | Brazil<br><br>🚀 Specializing in Laravel and Vue.js<br>💼 Experienced in PHP, MySQL, JavaScript, HTML, CSS<br>🎯 Committed to creating robust and intuitive web applications<br>📚 Lifelong learner with courses from Alura and OneBitCode<br>💪 Dedicated gymrat | 🎬 Movie enthusiast | 🎮 Gamer<br><br>📫 Connect with me on GitHub for exciting opportunities and collaborations!</p>
 
 ###
 
