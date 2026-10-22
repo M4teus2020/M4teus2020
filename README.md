@@ -1,46 +1,20 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif"  />
-</div>
+<a href="https://felini.dev"><img src="assets/hero.svg" alt="Mateus Felini, Desenvolvedor Backend PHP. Laravel e Vue em produção, do webhook ao boleto. Ibiaçá, RS. Aberto a vagas remotas." width="100%"></a>
 
-###
+<!-- 01 Em produção (comentado a pedido do Mateus; descomentar pra voltar)
+<img src="assets/h-sistema.svg" alt="01 Em produção" width="100%">
+<img src="assets/sistema.svg" alt="WhatsApp, telefonia, e-mail e boleto alimentando um núcleo Laravel com mais de 150 mil registros por dia" width="100%">
+-->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateus-felini-737a35209/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/matfelini/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<img src="assets/h-stack.svg" alt="02 Stack" width="100%">
+<img src="assets/stack.svg" alt="Backend: PHP, Laravel, REST APIs, filas e jobs, webhooks. Frontend: Vue 3, TypeScript, Tailwind CSS, Pinia. Dados: MySQL, PostgreSQL. Ferramentas: Docker, Git, Claude Code. Estudando: AWS, RabbitMQ e SQS, observabilidade, Kubernetes." width="100%">
 
-###
+<!-- 03 Projetos (comentado a pedido do Mateus; descomentar pra voltar)
+<img src="assets/h-projetos.svg" alt="03 Projetos" width="100%">
+<a href="https://felini.dev"><img src="assets/proj-1.svg" alt="felini.dev, portfólio com dois públicos" width="100%"></a>
+<a href="https://felini.dev/servicos"><img src="assets/proj-2.svg" alt="Sites para comércio local" width="100%"></a>
+<a href="https://github.com/M4teus2020/pulse-chat-frontend"><img src="assets/proj-3.svg" alt="Pulse, chat em tempo real estilo Discord" width="100%"></a>
+-->
 
-<h1 align="center">hey there 👋</h1>
+<a href="https://felini.dev"><img src="assets/contato.svg" alt="Vamos conversar. felini.dev" width="100%"></a>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🇧🇷 Web Developer | Brazil<br><br>🚀 Specializing in Laravel and Vue.js<br>💼 Experienced in PHP, MySQL, JavaScript, HTML, CSS<br>🎯 Committed to creating robust and intuitive web applications<br>📚 Autodidact, learning through courses and personal projects.<br>💪 Dedicated gymrat | 🎬 Movie enthusiast | 🎮 Gamer<br><br>📫 Connect with me on GitHub for exciting opportunities and collaborations!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typecript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
+<p align="center"><a href="https://felini.dev">felini.dev</a> · <a href="https://www.linkedin.com/in/mateus-felini-737a35209/">LinkedIn</a></p>
