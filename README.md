@@ -12,7 +12,7 @@
 <img src="assets/h-projetos.svg" alt="03 Projetos" width="100%">
 <a href="https://felini.dev"><img src="assets/proj-1.svg" alt="felini.dev, portfólio com dois públicos" width="100%"></a>
 <a href="https://felini.dev/servicos"><img src="assets/proj-2.svg" alt="Sites para comércio local" width="100%"></a>
-<a href="https://github.com/M4teus2020/pulse-chat-frontend"><img src="assets/proj-3.svg" alt="Pulse, chat em tempo real estilo Discord" width="100%"></a>
+<a href="https://github.com/M4teus2020/pulse"><img src="assets/proj-3.svg" alt="Pulse, chat em tempo real estilo Discord" width="100%"></a>
 -->
 
 <a href="https://felini.dev"><img src="assets/contato.svg?v=2" alt="Vamos conversar. felini.dev" width="100%"></a>
